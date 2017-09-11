@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "downshift": "^1.4.0",
     "react": "^15.6.1",
+    "react-click-outside": "tj/react-click-outside",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.13"
   },
